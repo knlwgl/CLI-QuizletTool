@@ -1,0 +1,14 @@
+incorrectfilepath
+filedoesnotexist.sr
+sampleInputs/generic.sr
+-5
+not a number hehe
+5
+1
+2
+3
+3
+2
+hehe
+2
+4
