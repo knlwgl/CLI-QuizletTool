@@ -2,6 +2,7 @@ A CLI application with two modes; 1) summarizes a directory of note files (.md),
 
 Uses the MVC design pattern. 
 
-Project Guidelines:
-[P1]([url](https://markefontenot.notion.site/PA-01-Summarize-This-c8275591b4eb43df9f56dbae881f2423))
-[P2]([url](https://markefontenot.notion.site/PA-02-Summarize-This-Anki-Lite-b55e0fc269824a1e8e31b25bea0aa0cb)https://markefontenot.notion.site/PA-02-Summarize-This-Anki-Lite-b55e0fc269824a1e8e31b25bea0aa0cb)
+Project Instructions:\
+[Part 1](https://markefontenot.notion.site/PA-01-Summarize-This-c8275591b4eb43df9f56dbae881f2423)\
+[Part 2](https://markefontenot.notion.site/PA-02-Summarize-This-Anki-Lite-b55e0fc269824a1e8e31b25bea0aa0cb)
+
